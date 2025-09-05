@@ -70,7 +70,7 @@ nav {
 .row {
   display: grid;
   grid-template-columns: 1fr 1fr 2fr;
-  margin-top: 20px;
+  margin-top: 5px;
 }
 
 #input {
